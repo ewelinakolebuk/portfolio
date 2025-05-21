@@ -7,7 +7,32 @@ After several years worked as archaeology and musealist. This worked has teached
 2. After that i decided to go back to the university - postgraduade studies
 3. udemy courses
 4. Finally I got my first work as software tester
-   Here I present 
+   Here I present
+
+   JMeter Complete Step by Step from scratch | 2024 by Automation Step by Step (https://www.youtube.com/watch?v=1tJGRWABpW0):
+- Understand GUI
+
+- Test plan
+
+- How to create first test in JMeter
+
+- Thread group
+
+- Samplers
+
+- Listeners
+
+- Recording
+
+- Real world login scenario recording
+
+- Recording with BlazeMeter
+
+- CMD
+
+- Best practices
+
+  
 ##
 Welcome! I'm an aspiring QA Tester with a passion for quality and detail. This portfolio showcases sample manual and automated tests I have created as part of my learning process and projects.  
 Here you will find:
