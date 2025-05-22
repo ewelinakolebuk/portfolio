@@ -9,6 +9,13 @@ After several years worked as archaeology and musealist. This worked has teached
 4. Finally I got my first work as software tester
    Here I present
 
+Przykładowe zadanie z JMeter:
+nagranie za pomocą wtyczki BlazeMeter i eksport do pliku jmx, konfiguracja otrzymanego pliku (zmiana liczby użytkowników, czasu, nazw testów i dodanie listenerów), uruchomienie pliku z konsoli cmd i wygenerowanie raportu w formacie .jtl, .csv i html
+polecenie w cmd: 
+D:\Biblioteki\Dokumenty\Studia TO\Postman i Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin>jmeter -n -t "C:\Users\koleb\Desktop\Performance tests\Test-1-ORANGEHRM.jmx" -l "C:\Users\koleb\Desktop\Performance tests\Reports\Report_1.jtl"
+D:\Biblioteki\Dokumenty\Studia TO\Postman i Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin>jmeter -n -t "C:\Users\koleb\Desktop\Performance tests\Test-1-ORANGEHRM.jmx" -l "C:\Users\koleb\Desktop\Performance tests\Reports\Report_1.csv"
+D:\Biblioteki\Dokumenty\Studia TO\Postman i Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin>jmeter -n -t "C:\Users\koleb\Desktop\Performance tests\Test-1-ORANGEHRM.jmx" -l "C:\Users\koleb\Desktop\Performance tests\Reports\Report_2.jtl" -e -o "C:\Users\koleb\Desktop\Performance tests\Reports\HTML report"
+
 ### JMeter Complete Step by Step from scratch | 2024 by Automation Step by Step (https://www.youtube.com/watch?v=1tJGRWABpW0):
 - Understand GUI
 
