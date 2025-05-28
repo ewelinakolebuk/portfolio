@@ -9,7 +9,7 @@ Here is a record of my path to becoming a professional software tester!
 
 -----
 
-## <a name="aboutme"> About me</a>
+## <a name="aboutme"> 📝 About me</a>
 
 After several years worked as archaeology and musealist. This worked has teached my some usuful skills, but I felt tired and dismotivated and decidec to change my carrer path. For me it is a transition from past to the future.  
 1. Mimo - python + I started to lern python by myself. but i havent a goog plan. Then I decided to find an organized schema of lerning - 2 GOIT marathons + reconesans
