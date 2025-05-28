@@ -1,30 +1,31 @@
 # Portfolio
-Here is a record of my path to becoming a professional software tester!
+Welcome! I'm an aspiring QA Tester with a passion for quality and detail. This portfolio showcases sample manual and automated tests I have created as part of my learning process and projects.
+
 
 ### TABLE OF CONTENTS
 
 -----
 
-📌 [About me](#aboutme)  📌 [Education | courses](#education)  📌[Bug reports](#bugreports)  📌 [Test cases](#testcases) 📌[Test plan](#testplan) 📌[Exploratory testing](#eksploratorytesting) 📌[Test report](#testreport)  📌[API testing (Postman)](#API) 📌[Automated testing](#automation) 📌[SQL Queries](#sql) 📌 [Tools](#tools) 📌[Technical skills](#technicalskills) 📌[Soft skills](#softskills) 📌 [Books](#books)
+📌 [About me](#aboutme)  📌 [Education | courses](#education)  📌[Bug reports](#bugreports)  📌 [Test cases](#testcases) 📌[Test plan](#testplan) 📌[Exploratory testing](#eksploratorytesting) 📌[Test report](#testreport)  📌[API testing (Postman)](#API) 📌[Automated testing](#automation) 📌[SQL Queries](#sql) 📌 [Tools](#tools) 📌[Technical skills](#technicalskills) 📌[Soft skills](#softskills) 📌 [Books](#books) 📌[Contact](#contact)
 
 
 -----
 
 ## <a name="aboutme"> 🙋‍♀️ About me</a>
+I used to dig through layers of earth to uncover the past and tell the stories hidden behind museum artifacts.
+Now I dig through lines of code to secure the future and uncover bugs buried deep within software.
 
-After several years worked as archaeology and musealist. This worked has teached my some usuful skills, but I felt tired and dismotivated and decidec to change my carrer path. For me it is a transition from past to the future.  
-1. Mimo - python + I started to lern python by myself. but i havent a goog plan. Then I decided to find an organized schema of lerning - 2 GOIT marathons + reconesans
-2. After that i decided to go back to the university - postgraduade studies
-3. udemy courses
-4. Finally I got my first work as software tester
-   Here I present
+I’m a career switcher who found a passion for software testing for the same reasons I liked working in cultural heritage: curiosity, attention to detail, and the joy of discovering what lies beneath the surface.
 
-Przykładowe zadanie z JMeter:
-nagranie za pomocą wtyczki BlazeMeter i eksport do pliku jmx, konfiguracja otrzymanego pliku (zmiana liczby użytkowników, czasu, nazw testów i dodanie listenerów), uruchomienie pliku z konsoli cmd i wygenerowanie raportu w formacie .jtl, .csv i html
-polecenie w cmd: 
-D:\Biblioteki\Dokumenty\Studia TO\Postman i Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin>jmeter -n -t "C:\Users\koleb\Desktop\Performance tests\Test-1-ORANGEHRM.jmx" -l "C:\Users\koleb\Desktop\Performance tests\Reports\Report_1.jtl"
-D:\Biblioteki\Dokumenty\Studia TO\Postman i Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin>jmeter -n -t "C:\Users\koleb\Desktop\Performance tests\Test-1-ORANGEHRM.jmx" -l "C:\Users\koleb\Desktop\Performance tests\Reports\Report_1.csv"
-D:\Biblioteki\Dokumenty\Studia TO\Postman i Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin>jmeter -n -t "C:\Users\koleb\Desktop\Performance tests\Test-1-ORANGEHRM.jmx" -l "C:\Users\koleb\Desktop\Performance tests\Reports\Report_2.jtl" -e -o "C:\Users\koleb\Desktop\Performance tests\Reports\HTML report"
+I hold an ISTQB® Certified Tester certificate and am currently gaining hands-on experience in a real-world academic project at the Silesian University of Technology, where I work as a manual tester. In my free time, I explore testing tools, write SQL queries for fun, and learn Python scripting — because I believe good testers should always keep improving and never stop asking “what if?”
+
+Looking for a passionate, adaptable, and quietly persistent junior tester?
+I’m ready to click, break, question — and improve.
+
+And here is a record of my path to becoming a professional software tester!
+
+
+
 
 ## <a name="education"> 🎓 Education | courses</a>
 
@@ -65,7 +66,25 @@ D:\Biblioteki\Dokumenty\Studia TO\Postman i Jmeter\apache-jmeter-5.6.3\apache-jm
 
 ## <a name="books"> 📚 Books that I know and recommend</a>
 
+👉 [Testowanie i jakość oprogramowania. Modele, techniki, narzędzia (Adam Roman)](https://helion.pl/ksiazki/testowanie-i-jakosc-oprogramowania-modele-techniki-narzedzia-adam-roman,e_1oe0.htm?srsltid=AfmBOoo_Gzz2PFjoJ7LEEnwHQMe1ZVI63oxXI9CNgWN1xQqgQGXAP5Fa#format/e)
 
+👉 [Pasja testowania (Krzysztof Jadczyk)](https://helion.pl/ksiazki/pasja-testowania-wydanie-ii-rozszerzone-krzysztof-jadczyk,paste2.htm?srsltid=AfmBOooxdTAgvVctocladKMQ94svr6jzkSMkfy4KGKxjMKPKDS7LNb03#format/d)
+
+👉 [Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm?srsltid=AfmBOopzULs9UlWzvtEY9blfHH2THXSa4Hxy3ahLRyx969m5MR-8wQit#format/e)
+
+👉 [Certyfikowany tester ISTQB. Poziom podstawowy. Pytania i odpowiedzi (Adam Roman, Lucjan Stapp)](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-pytania-i-odpowiedzi-lucjan-stapp-adam-roman,certes.htm#format/d)
+
+👉 [Zawód tester. Od decyzji do zdobycia doświadczenia (Radosław Smilgin)](https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm?srsltid=AfmBOoq-sL7BqwxH-9GZYbpDHIr8x9YYPrkzj2y_I7JAaiu0QNVyfgIb#format/e)
+
+👉 [Python dla testera (Piotr Wróblewski)](https://helion.pl/ksiazki/python-dla-testera-piotr-wroblewski,pyttes.htm?srsltid=AfmBOookgw0O5m7chqrTe05gdBzkGQeGMJBKR8ljS3IQUR7NKe94vKa9#format/d)
+
+## <a name="contact">📬 Contact </a>
+If you'd like to connect or see more of my work:
+💼 LinkedIn: https://www.linkedin.com/in/ewelina-kolebuk-91376a2b4/
+
+📧 Email: kolebukewelina@gmail.com
+
+  
 ##
 Welcome! I'm an aspiring QA Tester with a passion for quality and detail. This portfolio showcases sample manual and automated tests I have created as part of my learning process and projects.  
 Here you will find:
@@ -95,14 +114,15 @@ Here you will find:
 - Traceability matrix
 - Defect report template
 
-## 📬 Contact
-If you'd like to connect or see more of my work:
-- LinkedIn: https://www.linkedin.com/in/ewelina-kolebuk-91376a2b4/
-- Email: kolebukewelina@gmail.com
+
 
 ## 📖 Books that I know and recommend
-- Testowanie i jakość oprogramowania. Modele, techniki, narzędzia (Adam Roman)
-- Pasja testowania (Krzysztof Jadczyk)
-- Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)
-- Zawód tester. Od decyzji do zdobycia doświadczenia (Radosław Smilgin)
-- Python dla testera (Piotr Wróblewski)
+
+
+
+Przykładowe zadanie z JMeter:
+nagranie za pomocą wtyczki BlazeMeter i eksport do pliku jmx, konfiguracja otrzymanego pliku (zmiana liczby użytkowników, czasu, nazw testów i dodanie listenerów), uruchomienie pliku z konsoli cmd i wygenerowanie raportu w formacie .jtl, .csv i html
+polecenie w cmd: 
+D:\Biblioteki\Dokumenty\Studia TO\Postman i Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin>jmeter -n -t "C:\Users\koleb\Desktop\Performance tests\Test-1-ORANGEHRM.jmx" -l "C:\Users\koleb\Desktop\Performance tests\Reports\Report_1.jtl"
+D:\Biblioteki\Dokumenty\Studia TO\Postman i Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin>jmeter -n -t "C:\Users\koleb\Desktop\Performance tests\Test-1-ORANGEHRM.jmx" -l "C:\Users\koleb\Desktop\Performance tests\Reports\Report_1.csv"
+D:\Biblioteki\Dokumenty\Studia TO\Postman i Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin>jmeter -n -t "C:\Users\koleb\Desktop\Performance tests\Test-1-ORANGEHRM.jmx" -l "C:\Users\koleb\Desktop\Performance tests\Reports\Report_2.jtl" -e -o "C:\Users\koleb\Desktop\Performance tests\Reports\HTML report"
