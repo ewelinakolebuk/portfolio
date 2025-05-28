@@ -71,7 +71,12 @@ Here you will find:
 
 ## 📬 Contact
 If you'd like to connect or see more of my work:
-- LinkedIn: [your-link]
-- Email: [your-email]
+- LinkedIn: https://www.linkedin.com/in/ewelina-kolebuk-91376a2b4/
+- Email: kolebukewelina@gmail.com
 
-## Books 
+## Books that I know and recommend
+- Testowanie i jakość oprogramowania. Modele, techniki, narzędzia (Adam Roman)
+- Pasja testowania (Krzysztof Jadczyk)
+- Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)
+- Zawód tester. Od decyzji do zdobycia doświadczenia (Radosław Smilgin)
+- Python dla testera (Piotr Wróblewski)
