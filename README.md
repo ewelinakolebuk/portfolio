@@ -1,7 +1,16 @@
 # Portfolio
-Here's a record of my path to becoming a professional software tester!
+Here is a record of my path to becoming a professional software tester!
 
-## About me
+#### TABLE OF CONTENTS
+
+-----
+
+:white_circle: [ABOUT ME](#Aboutme) :white_circle: [PROJECTS](#projects) :white_circle: [TEST CASES example](#testcases) :white_circle: [BUG REPORT example](#bugreport) :white_circle: [TEST REPORT example](#testreport) :white_circle: [JIRA - BUG REPORT example](#jira) :white_circle: [SQL tasks](#sql) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#techskills) :white_circle: [SOFT SKILLS](#softskills) :white_circle: [TOP 5 GALLUP STRENGHTS](#gallup) :white_circle: [TECH EVENTS](#events) :white_circle: [THE CODDING APPS - training](#apps) :white_circle: [BOOKS ABOUT TESTING](#books) :white_circle: [RECOMMENDED BLOGS ABOUT TESTING](#blogs) :white_circle: [GROUPS ABOUT TESTING ON FACEBOOK](#face) :white_circle:
+
+-----
+
+## <a name="aboutme">:mag_right: About me</a>
+
 After several years worked as archaeology and musealist. This worked has teached my some usuful skills, but I felt tired and dismotivated and decidec to change my carrer path. For me it is a transition from past to the future.  
 1. Mimo - python + I started to lern python by myself. but i havent a goog plan. Then I decided to find an organized schema of lerning - 2 GOIT marathons + reconesans
 2. After that i decided to go back to the university - postgraduade studies
