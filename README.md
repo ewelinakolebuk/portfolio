@@ -80,6 +80,7 @@ And here is a record of my path to becoming a professional software tester!
 
 ## <a name="contact">📬 Contact </a>
 If you'd like to connect or see more of my work:
+
 💼 LinkedIn: https://www.linkedin.com/in/ewelina-kolebuk-91376a2b4/
 
 📧 Email: kolebukewelina@gmail.com
