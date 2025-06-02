@@ -117,9 +117,6 @@ Here you will find:
 
 
 
-## 📖 Books that I know and recommend
-
-
 
 Przykładowe zadanie z JMeter:
 nagranie za pomocą wtyczki BlazeMeter i eksport do pliku jmx, konfiguracja otrzymanego pliku (zmiana liczby użytkowników, czasu, nazw testów i dodanie listenerów), uruchomienie pliku z konsoli cmd i wygenerowanie raportu w formacie .jtl, .csv i html
