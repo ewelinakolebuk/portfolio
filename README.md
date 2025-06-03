@@ -91,6 +91,41 @@ The tests use collection and environment variables, pre-request scripts, and dyn
 
 ## <a name="softskills"> 💬 Soft skills</a>
 
+
+I believe that being a great tester goes beyond tools and scripts. These are the core soft skills I bring to every project:
+
+🔎 **Precision & Attention to Quality**  
+I take pride in delivering reliable, high-quality work by spotting details others might miss.
+
+🙌 **Communication & Teamwork**  
+Clear communication and strong collaboration are key to resolving issues quickly and efficiently.
+
+🧠 **Critical Thinking**  
+I question assumptions, challenge unclear requirements, and look for the "why" behind the "what".
+
+⚡ **Fast Learner**  
+I adapt quickly to new tools, workflows, and environments — and enjoy the process of continuous learning.
+
+💡 **Creative Problem Solving**  
+I approach issues from different angles and look for practical, innovative solutions.
+
+📊 **Analytical Mindset**  
+I enjoy analyzing data and patterns to find root causes and understand the full picture.
+
+🚀 **Proactive Attitude**  
+I don’t wait to be told — I take initiative, anticipate problems, and act to prevent them.
+
+🔁 **Growth-Oriented**  
+Always eager to develop my skills, whether it’s through courses, projects, or feedback.
+
+🔥 **Motivated & Positive**  
+I bring energy, curiosity, and persistence to every task, even when it’s challenging.
+
+🗂️ **Organized & Reliable**  
+I plan my work carefully and stick to deadlines to keep things moving forward smoothly.
+
+
+
 ## <a name="books"> 📚 Books that I know and recommend</a>
 
 👉 [Testowanie i jakość oprogramowania. Modele, techniki, narzędzia (Adam Roman)](https://helion.pl/ksiazki/testowanie-i-jakosc-oprogramowania-modele-techniki-narzedzia-adam-roman,e_1oe0.htm?srsltid=AfmBOoo_Gzz2PFjoJ7LEEnwHQMe1ZVI63oxXI9CNgWN1xQqgQGXAP5Fa#format/e)
