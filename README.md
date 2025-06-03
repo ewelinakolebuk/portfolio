@@ -52,12 +52,12 @@ And here is a record of my path to becoming a professional software tester!
 ## <a name="testcases"> 🧪 Test cases </a>
 
 ## <a name="testplan"> 🗂️ Test plan</a>
-
+- [example of test plan]
 ## <a name="eksploratorytesting"> 🔎 Exploratory testing</a>
 
 ## <a name="testreport"> 📊 Test report</a>
 
-- [example of test report](assets/Test_report.pdf)
+- [example of test report](https://drive.google.com/file/d/1h4wayMQb9QrWdWzW7jMovLzzPF3QS7Jj/view?usp=sharing)
 ## <a name="API"> 🔌 API testing (Postman)</a>
 
 
