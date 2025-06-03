@@ -57,6 +57,7 @@ And here is a record of my path to becoming a professional software tester!
 
 ## <a name="testreport"> 📊 Test report</a>
 
+- [example of test report](assets/Test_report.pdf)
 ## <a name="API"> 🔌 API testing (Postman)</a>
 
 
@@ -89,8 +90,50 @@ The tests use collection and environment variables, pre-request scripts, and dyn
 
 ## <a name="technicalskills"> 🧰Technical skills</a>
 
-## <a name="softskills"> 💬 Soft skills</a>
+Below is a summary of the technical skills I’ve gained through hands-on projects, self-learning, and practical exercises focused on software testing. These competencies reflect both my theoretical understanding and my ability to apply knowledge in real testing scenarios.
 
+🧪 **Software Testing**
+
+- Manual Testing (test cases, bug reports, exploratory testing)
+
+- Knowledge of software testing procedures and creation of test documentation
+
+- Familiarity with the ISTQB Foundation Level Syllabus
+
+- REST API testing using Postman and JavaScript assertions
+
+- Understanding of HTTP methods, status codes, headers, and JSON payloads
+
+🛠️ **Testing Tools & Technologies**
+
+- Postman (collections, scripts, variables, monitors)
+
+- Newman (CLI test runner for Postman)
+
+- Swagger / API documentation
+
+🧰 **Test Automation & Scripting**
+
+- Pre-request and test scripts in Postman
+
+- Running tests with Collection Runner and CLI
+
+- Basic JavaScript for assertions and flow control
+
+
+💻 Programming & Web Fundamentals
+
+- Basic knowledge of Python and JavaScript
+
+- HTML & CSS fundamentals
+
+- SQL basics (SELECT queries, filtering, joins)
+
+- DevTools
+
+- Git & GitHub for version control
+
+## <a name="softskills"> 💬 Soft skills</a>
 
 I believe that being a great tester goes beyond tools and scripts. These are the core soft skills I bring to every project:
 
