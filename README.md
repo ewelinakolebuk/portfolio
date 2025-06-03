@@ -62,7 +62,7 @@ And here is a record of my path to becoming a professional software tester!
 
 📌 Trello API Testing Project
 
-⛓️‍💥 https://github.com/ewelinakolebuk/Trello-API-Testing-Project
+[⛓️‍💥 Project Github Repo](https://github.com/ewelinakolebuk/Trello-API-Testing-Project)
 
 This project showcases practical API testing skills using Postman with Trello’s RESTful API. The test flow simulates a basic task management scenario involving the creation and manipulation of boards, lists, cards, labels, and checklists.
 
@@ -111,4 +111,3 @@ If you'd like to connect or see more of my work:
 💼 LinkedIn: https://www.linkedin.com/in/ewelina-kolebuk-91376a2b4/
 
 📧 Email: kolebukewelina@gmail.com
-
