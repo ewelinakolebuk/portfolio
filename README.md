@@ -44,6 +44,11 @@ And here is a record of my path to becoming a professional software tester!
 
 ## <a name="bugreports"> 🐞 Bug reports </a>
 
+- [example of a bug report from the uTest platform](assets/uTest1.png)
+- [example of a bug report from the uTest platform](assets/uTest2.png)
+- [example of a bug report from the uTest platform](assets/uTest3.png)
+- [example of a bug report from the uTest platform](assets/uTest4.png)
+
 ## <a name="testcases"> 🧪 Test cases </a>
 
 ## <a name="testplan"> 🗂️ Test plan</a>
@@ -53,6 +58,28 @@ And here is a record of my path to becoming a professional software tester!
 ## <a name="testreport"> 📊 Test report</a>
 
 ## <a name="API"> 🔌 API testing (Postman)</a>
+
+
+📌 Trello API Testing Project
+
+[⛓️‍💥 Project Github Repo](https://github.com/ewelinakolebuk/Trello-API-Testing-Project)
+
+This project showcases practical API testing skills using Postman with Trello’s RESTful API. The test flow simulates a basic task management scenario involving the creation and manipulation of boards, lists, cards, labels, and checklists.
+
+Key features tested:
+
+✅ Creating, updating, retrieving, and deleting boards (POST, PUT, GET, DELETE)
+
+📋 Managing lists and cards
+
+🏷️ Adding and verifying labels
+
+✔️ Handling checklists and check items
+
+🧪 Asserting response status codes, data types, response times, and data integrity
+
+The tests use collection and environment variables, pre-request scripts, and dynamic JavaScript assertions to ensure robust and maintainable API validation.
+
 
 ## <a name="automation"> 🤖 Automated testing</a>
 
@@ -85,42 +112,3 @@ If you'd like to connect or see more of my work:
 
 📧 Email: kolebukewelina@gmail.com
 
-  
-##
-Welcome! I'm an aspiring QA Tester with a passion for quality and detail. This portfolio showcases sample manual and automated tests I have created as part of my learning process and projects.  
-Here you will find:
-- Test cases (manual)
-- Bug reports
-- Test plans
-- API tests with Postman
-- Basic automation with Python / Selenium
-
-## 🔍 Manual Testing
-- Sample test cases for a demo website ([example.com](https://example.com))
-- Bug report examples with screenshots
-- Test execution reports in .xlsx or .pdf
-
-## 🔧 API Testing (Postman)
-- Postman collection for a sample REST API
-- Environment variables and test scripts
-- Screenshots of responses and test results
-
-## 🤖 Automation Testing
-- Simple automation scripts using Selenium WebDriver (Python)
-- Test cases written using `unittest` or `pytest`
-- Page Object Model examples
-
-## 🗂 Test Documentation
-- Test plan for a sample web application
-- Traceability matrix
-- Defect report template
-
-
-
-
-Przykładowe zadanie z JMeter:
-nagranie za pomocą wtyczki BlazeMeter i eksport do pliku jmx, konfiguracja otrzymanego pliku (zmiana liczby użytkowników, czasu, nazw testów i dodanie listenerów), uruchomienie pliku z konsoli cmd i wygenerowanie raportu w formacie .jtl, .csv i html
-polecenie w cmd: 
-D:\Biblioteki\Dokumenty\Studia TO\Postman i Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin>jmeter -n -t "C:\Users\koleb\Desktop\Performance tests\Test-1-ORANGEHRM.jmx" -l "C:\Users\koleb\Desktop\Performance tests\Reports\Report_1.jtl"
-D:\Biblioteki\Dokumenty\Studia TO\Postman i Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin>jmeter -n -t "C:\Users\koleb\Desktop\Performance tests\Test-1-ORANGEHRM.jmx" -l "C:\Users\koleb\Desktop\Performance tests\Reports\Report_1.csv"
-D:\Biblioteki\Dokumenty\Studia TO\Postman i Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin>jmeter -n -t "C:\Users\koleb\Desktop\Performance tests\Test-1-ORANGEHRM.jmx" -l "C:\Users\koleb\Desktop\Performance tests\Reports\Report_2.jtl" -e -o "C:\Users\koleb\Desktop\Performance tests\Reports\HTML report"
