@@ -28,7 +28,7 @@ And here is a record of my path to becoming a professional software tester!
 
 
 ## <a name="education"> 🎓 Education | courses</a>
-### Postgraduate Studies – Software Testing  
+### 🏫 Postgraduate Studies – Software Testing 2023/2024 
 Jagiellonian University, Faculty of Mathematics and Computer Science
 
 <b>Subjects included:</b>
@@ -92,9 +92,9 @@ Jagiellonian University, Faculty of Mathematics and Computer Science
 - Working with files  
 - Introduction to Object-Oriented Programming (OOP)  
 - Working with external libraries (pandas, numpy, matplotlib) 
+------
 
-
-### [JMeter Complete Step by Step from scratch | 2024 by Automation Step by Step](https://www.youtube.com/watch?v=1tJGRWABpW0):
+###  📊 [JMeter Complete Step by Step from scratch | 2024 by Automation Step by Step](https://www.youtube.com/watch?v=1tJGRWABpW0):
 - Understand GUI
 - Test plan
 - How to create first test in JMeter
@@ -120,6 +120,7 @@ Jagiellonian University, Faculty of Mathematics and Computer Science
 - [example of test plan](https://drive.google.com/file/d/1fp6ghZMlxc6pYh8R5TFzjPs5bmAzs_Sw/view?usp=sharing)
 
 ## <a name="eksploratorytesting"> 🔎 Exploratory testing</a>
+- [example of an exploratory testing session](https://drive.google.com/file/d/1M9oZShj7a4VNM26DX-OJYDupmYbmamFG/view?usp=sharing)
 - [example of an exploratory testing session](https://drive.google.com/file/d/1M9oZShj7a4VNM26DX-OJYDupmYbmamFG/view?usp=sharing)
 - [example of an exploratory testing session](https://drive.google.com/file/d/17nbayRRHoK9cul-8I9idKIa0jBzYBP7Z/view?usp=sharing)
 - [example of an exploratory testing session](https://drive.google.com/file/d/1gC93efGT6lbnxDxPsuOhChVEnxsZvsjk/view?usp=sharing)
