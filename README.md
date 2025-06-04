@@ -39,7 +39,7 @@ Jagiellonian University, Faculty of Mathematics and Computer Science
 - Bug reporting
 - Testing techniques (black-box: equivalence partitioning, boundary value analysis, decision tables, pairwise testing, state transition diagrams; white-box; experience-based – exploratory testing)
 - Test cases
-- Jira + TestFlo
+- Jira + TestFLO
 - Test environments and test data
 - Functional and non-functional testing  
 
@@ -157,6 +157,18 @@ The tests use collection and environment variables, pre-request scripts, and dyn
 ## <a name="sql"> 💾 SQL Queries</a>
 
 ## <a name="tools"> 🔧 Tools</a>
+ - Jira & TestFLO
+ - TestLink
+ - Postman
+ - JMeter
+ - Selenium IDE
+ - MySQL, Microsoft SQL Server
+ - DevTools
+ - Git
+ - GitHub
+ - Slack
+ - Visual Studio Code
+ - Sharex
 
 ## <a name="technicalskills"> 🧰Technical skills</a>
 
@@ -174,13 +186,6 @@ Below is a summary of the technical skills I’ve gained through hands-on projec
 
 - Understanding of HTTP methods, status codes, headers, and JSON payloads
 
-🛠️ **Testing Tools & Technologies**
-
-- Postman (collections, scripts, variables, monitors)
-
-- Newman (CLI test runner for Postman)
-
-- Swagger / API documentation
 
 🧰 **Test Automation & Scripting**
 
