@@ -28,6 +28,71 @@ And here is a record of my path to becoming a professional software tester!
 
 
 ## <a name="education"> 🎓 Education | courses</a>
+### Postgraduate Studies – Software Testing  
+Jagiellonian University, Faculty of Mathematics and Computer Science
+
+<b>Subjects included:</b>
+
+ 🔎 **Basic techniques and tools for software testing**
+
+- Testing theory
+- Bug reporting
+- Testing techniques (black-box: equivalence partitioning, boundary value analysis, decision tables, pairwise testing, state transition diagrams; white-box; experience-based – exploratory testing)
+- Test cases
+- Jira + TestFlo
+- Test environments and test data
+- Functional and non-functional testing  
+
+💾 **Database Systems (SQL)**  
+- Theoretical concepts  
+- Microsoft SQL Server  
+- SQL language syntax  
+- SELECT – query basics  
+- Data filtering: WHERE, LIKE, BETWEEN, IN  
+- Sorting and aliases (ORDER BY, AS)  
+- Logical operators: AND, OR, NOT  
+- Arithmetic operators  
+- Data operations (INSERT, UPDATE, DELETE, handling NULL values)  
+- Database structure operations (CREATE, ALTER, DROP, CONSTRAINTS)  
+- JOIN (INNER, LEFT, RIGHT, FULL OUTER)  
+- Subqueries and nested queries  
+- UNION, INTERSECT, EXCEPT  
+- Grouping and aggregation: GROUP BY, HAVING, COUNT, SUM, AVG, MAX, MIN  
+- CASE and conditional operations  
+- Views and indexes 
+
+💻 **Selected Elements of Operating Systems**  
+- Virtual machines  
+- Linux  
+- Command-line interface (CLI) commands  
+
+🌐 **Fundamentals of Internet Programming**  
+- Theoretical concepts  
+- HTML  
+- CSS  
+- Introduction to APIs  
+- Git and GitHub  
+
+📋 **Management and Documentation of the Testing Process**  
+- Test planning and test plan creation  
+- Test monitoring and supervision  
+- Final test report  
+
+🤖 **Techniques and Tools for Test Automation**  
+- Selenium IDE  
+- Postman  
+- JMeter 
+
+🐍 **Practical Introduction to Programming – Python**  
+- Introduction to programming and development environment  
+- Basic data types and operators  
+- Variables, conditions, and loops  
+- Data collections  
+- Functions and modules  
+- Working with files  
+- Introduction to Object-Oriented Programming (OOP)  
+- Working with external libraries (pandas, numpy, matplotlib) 
+
 
 ### [JMeter Complete Step by Step from scratch | 2024 by Automation Step by Step](https://www.youtube.com/watch?v=1tJGRWABpW0):
 - Understand GUI
