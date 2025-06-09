@@ -115,6 +115,7 @@ Jagiellonian University, Faculty of Mathematics and Computer Science
 - [example of a bug report from the uTest platform](assets/uTest4.png)
 
 ## <a name="testcases"> 🧪 Test cases </a>
+- [examples of test cases created on the TestLink platform](https://drive.google.com/file/d/1KGTAAr1_RD3ILfb5W9zpCfKPQL-vPIF_/view?usp=sharing)
 
 ## <a name="testplan"> 🗂️ Test plan</a>
 - [example of test plan](https://drive.google.com/file/d/1fp6ghZMlxc6pYh8R5TFzjPs5bmAzs_Sw/view?usp=sharing)
@@ -215,6 +216,9 @@ I believe that being a great tester goes beyond tools and scripts. These are the
 🔎 **Precision & Attention to Quality**  
 I take pride in delivering reliable, high-quality work by spotting details others might miss.
 
+🧘 **Patient**
+I stay calm and focused, even during repetitive testing or when tracking down elusive bugs.
+
 🙌 **Communication & Teamwork**  
 Clear communication and strong collaboration are key to resolving issues quickly and efficiently.
 
@@ -261,6 +265,6 @@ I plan my work carefully and stick to deadlines to keep things moving forward sm
 ## <a name="contact">📬 Contact </a>
 If you'd like to connect or see more of my work:
 
-💼 LinkedIn: https://www.linkedin.com/in/ewelina-kolebuk-91376a2b4/
+💼 LinkedIn: https://www.linkedin.com/in/ewelina-kolebuk/
 
 📧 Email: kolebukewelina@gmail.com
